@@ -6,6 +6,9 @@ __***SoldierAC***__
 **[+]** Fly Check B
 <br><br>
 *Speed Checks*<br>
-**[+]** Speed Check A<br>
-<br>
+**[+]** Speed Check A
+<br><br>
+*Reach Checks*<br>
+**[+]** Reach Check A
+<br><br><br>
 **NoBypass** *System*
