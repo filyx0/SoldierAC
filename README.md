@@ -12,3 +12,6 @@ __***SoldierAC***__
 **[+]** Reach Check A
 <br><br><br>
 **NoBypass** *System*
+
+--**SPIGOT**--
+https://www.spigotmc.org/resources/soldierac.105681/
